@@ -1,2 +1,1 @@
-# fp_in_python
-functional programming in python
+# Functional Programming in Python
